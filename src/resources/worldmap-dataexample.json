@@ -1,0 +1,38 @@
+[
+    {
+        "label": "France",
+        "nb_uniq_actions_searchkeyword": 11,
+        "level": 1,
+        "segment": "countryCode==fr"
+    },
+    {
+        "label": "Poland",
+        "nb_uniq_actions_searchkeyword": 6,
+        "level": 1,
+        "segment": "countryCode==pl"
+    },
+    {
+        "label": "Spain",
+        "nb_uniq_actions_searchkeyword": 6,
+        "level": 1,
+        "segment": "countryCode==es"
+    },
+    {
+        "label": "Italy",
+        "nb_uniq_actions_searchkeyword": 6,
+        "level": 1,
+        "segment": "countryCode==it"
+    },
+    {
+        "label": "Russia",
+        "nb_uniq_actions_searchkeyword": 6,
+        "level": 1,
+        "segment": "countryCode==ru"
+    },
+    {
+        "label": "Poland",
+        "nb_uniq_actions_searchkeyword": 6,
+        "level": 1,
+        "segment": "countryCode==co"
+    }
+]

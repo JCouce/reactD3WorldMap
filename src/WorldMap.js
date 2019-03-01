@@ -24,8 +24,6 @@ const parseMapData = (data) => {
     return parsedData;
 }
 class WorldMap extends Component {
-    componentDidMount() {
-    }
     render() {
         let finalData = parseMapData(this.props.data);
         let finalMap = mapWorldData(worlddata.features, finalData);
